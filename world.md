@@ -41,3 +41,6 @@ git add - добавить версионность
 ## Lesson 2
 
 git log --graph - отобразить схему веток
+
+git branch name - создание ветки
+
